@@ -27,6 +27,8 @@
         <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/RISC--V-%23F15A24.svg?style=flat-square&logo=riscv&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-%23FFA500.svg?style=flat-square&logo=rust&logoColor=black" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white" />
