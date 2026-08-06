@@ -42,15 +42,10 @@
 
 ---
 
-<!-- 核心指令对齐彩蛋 -->
-```c
-#include <stdint.h>
+<!-- GitHub 统计卡片 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuxnode&show_icons=true&theme=vue-dark&hide_border=true&locale=cn" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxnode&layout=compact&theme=vue-dark&hide_border=true&locale=cn" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=tuxnode&theme=vue-dark&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+</p>
 
-void boot_sequence(void) {
-    uint64_t pc = 0x80000000;
-    
-    // Strict adherence to the RISC-V specification
-    pc = (pc + 4) & ~1ULL; 
-    
-    /* System initialized successfully. */
-}
