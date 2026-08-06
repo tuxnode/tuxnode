@@ -44,8 +44,8 @@
 
 <!-- GitHub 统计卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuxnode&show_icons=true&theme=vue-dark&hide_border=true&locale=cn" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxnode&layout=compact&theme=vue-dark&hide_border=true&locale=cn" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tuxnode&show_icons=true&theme=vue-dark&hide_border=true&locale=cn" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuxnode&layout=compact&theme=vue-dark&hide_border=true&locale=cn" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=tuxnode&theme=vue-dark&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
 </p>
 
