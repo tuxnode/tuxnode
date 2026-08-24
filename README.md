@@ -13,7 +13,7 @@
       <h3>⚙️ System Status</h3>
       <p>An undergraduate enthusiast deep-diving into low-level systems and binary safety.</p>
       <ul>
-        <li>🔬 Hacking <b>xv6</b> kernel & building <b>RISC-V (NEMU)</b> simulator.</li>
+        <li>🔬 Hacking <b>xv6</b> kernel & building <b>RISC-V</b> simulator.</li>
         <li>🛡️ Exploiting stacks, heaps, and breaking binaries in CTFs.</li>
         <li>🚀 Crafting efficient network utilities in <b>Go</b>.</li>
         <li>🎨 Configuring compiler-ready pipelines inside <b>AstroNvim</b>.</li>
@@ -39,6 +39,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- 联系方式 -->
+<p align="center">
+  <h3 align="center">📬 How to Reach Me</h3>
+  <p align="center">
+    <a href="mailto:tuxnode@outlook.com">📧 tuxnode@outlook.com</a>
+  </p>
+</p>
 
 ---
 
