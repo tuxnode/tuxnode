@@ -16,7 +16,7 @@
         <li>🔬 Hacking <b>xv6</b> kernel & building <b>RISC-V</b> simulator.</li>
         <li>🛡️ Exploiting stacks, heaps, and breaking binaries in CTFs.</li>
         <li>🚀 Crafting efficient network utilities in <b>Go</b>.</li>
-        <li>🎨 Configuring compiler-ready pipelines inside <b>AstroNvim</b>.</li>
+        <li>🎨 A <b>CTF platform</b> contributer.</li>
       </ul>
     </td>
     <!-- 右栏：技术栈胶囊徽章（使用更内敛的 flat-square 样式） -->
