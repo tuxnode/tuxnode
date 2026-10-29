@@ -13,10 +13,10 @@
       <h3>⚙️ System Status</h3>
       <p>An undergraduate enthusiast deep-diving into low-level systems and binary safety.</p>
       <ul>
-        <li>🔬 Hacking <b>xv6</b> kernel & building <b>RISC-V</b> simulator.</li>
-        <li>🛡️ Exploiting stacks, heaps, and breaking binaries in CTFs.</li>
-        <li>🚀 Crafting efficient network utilities in <b>Go</b>.</li>
-        <li>🎨 A <b>CTF platform</b> contributer.</li>
+        <li> Hacking <b>xv6</b> kernel & building <b>RISC-V</b> simulator.</li>
+        <li> Exploiting stacks, heaps, and breaking binaries in CTFs.</li>
+        <li> Crafting efficient network utilities in <b>Go</b>.</li>
+        <li> A <b>CTF platform</b> contributer.</li>
       </ul>
     </td>
     <!-- 右栏：技术栈胶囊徽章（使用更内敛的 flat-square 样式） -->
@@ -54,6 +54,6 @@
 
 <!-- GitHub 统计卡片 -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuxnode&layout=compact&theme=vue-dark&hide_border=true&locale=cn" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuxnode&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
 </p>
 
